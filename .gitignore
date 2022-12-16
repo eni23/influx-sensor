@@ -1,0 +1,3 @@
+.pioenvs
+config/*
+!config/default.yaml

@@ -1,0 +1,17 @@
+---
+
+device_name: test
+tz_info: CET-1CEST,M3.5.0,M10.5.0/3
+update_interval: 30
+sensor_use_bme280: true
+
+influx:
+  url: http://10.10.10.10:8086
+  org: org
+  bucket: bucket
+  token: 123qwe
+
+wifi:
+  ssid: demo-ssid
+  pass: demo-pass
+
